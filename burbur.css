@@ -1,0 +1,45 @@
+
+ 
+#header{
+            background-color:burlywood;
+            text-align:center;
+            color:blue;
+            padding: 5px;
+          }
+          
+blockquote {background-color:yellow;color:black;border-style: dotted;border-radius: 3px;}
+
+li {display: inline;}
+
+ul{text-align:center;}
+
+.gambar {
+  text-align: center;
+}
+
+.gambar img {
+  width:24%;
+}
+
+.jawa{
+  font-size: 3em;
+  color: blue;
+}
+.isi {text-align: jsutify;}
+#profil{text-align: justify;}, #berternak {
+  text-align: justify;
+}
+.koleksi {background-color:#E1AA74;
+  text-align: center;
+}
+.koleksi img { 
+  width:24%;
+  border-radius: 8px;
+}
+.promo {
+  text-align:center;
+}
+.promo h2 {
+  color: red;
+}
+        
